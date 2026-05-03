@@ -25,4 +25,4 @@ A console-based Bank Management System developed in C++ that simulates basic ban
 - accounts.dat (stores account records)
 
 ## 👨‍💻 Author
-Your Name
+Nilay Jarsaniya
